@@ -1,0 +1,31 @@
+{
+  "name": "react-express-mongo-graphql-mui-starter",
+  "version": "0.0.1",
+  "description": "A e2e web application starter ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev-server": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowwarior5/react-express-mongo-graphql-mui-starter.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "mongodb",
+    "express",
+    "node",
+    "materialui"
+  ],
+  "author": "shadowwarrior5",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowwarior5/react-express-mongo-graphql-mui-starter/issues"
+  },
+  "homepage": "https://github.com/shadowwarior5/react-express-mongo-graphql-mui-starter#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
