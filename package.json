@@ -2,6 +2,7 @@
   "name": "react-express-mongo-graphql-mui-starter",
   "version": "0.0.1",
   "description": "A e2e web application starter ",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "test",
