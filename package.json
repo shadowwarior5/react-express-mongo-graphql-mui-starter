@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/shadowwarior5/react-express-mongo-graphql-mui-starter#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
